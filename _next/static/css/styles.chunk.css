@@ -1,3 +1,211 @@
+.src-components-HikeHeader-_headerRow--3w-lt {
+  background-color: #f9fafc;
+  height: 115px;
+  width: 100%;
+  margin-bottom: 20px; }
+
+.src-components-HikeHeader-_headerLayout--tnIEI {
+  background-color: #f9fafc;
+  z-index: 1;
+  height: 115px;
+  width: 100%;
+  top: 0;
+  padding-left: 20px;
+  margin: 0 auto;
+  max-width: 1440px; }
+
+.src-components-HikeHeader-_logo--1NTTx {
+  max-width: 66px;
+  margin-top: 20px;
+  position: relative;
+  z-index: 4; }
+
+.src-components-HikeHeader-_header--N33B7 {
+  background: transparent;
+  padding: 0;
+  height: 115px;
+  position: relative;
+  overflow: hidden; }
+
+.src-components-HikeHeader-_hide--2VwXw {
+  display: none !important; }
+
+.src-components-HikeHeader-_search--5eQst {
+  display: block;
+  position: relative;
+  flex: 1; }
+
+.src-components-HikeHeader-_camp--3ys2l {
+  position: absolute;
+  right: 0; }
+
+.src-components-HikeHeader-_subHeader--5tLpv {
+  display: flex;
+  z-index: 1; }
+
+.src-components-HikeHeader-_switchLang--17QWv {
+  padding: 10px 0; }
+
+.src-components-HikeSearch-_input--1OQcm {
+  border-radius: 30px;
+  border: 1px solid transparent;
+  box-shadow: none;
+  height: 40px;
+  padding-left: 20px;
+  padding-bottom: 6px;
+  width: 100%;
+  z-index: 2;
+  font-size: 15px;
+  font-family: "Poppins Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #30353F;
+  background: transparent; }
+  .src-components-HikeSearch-_input--1OQcm:focus, .src-components-HikeSearch-_input--1OQcm:hover {
+    box-shadow: none;
+    border: 1px solid transparent; }
+  @media only screen and (max-width: 767px) {
+    .src-components-HikeSearch-_input--1OQcm {
+      height: 36px;
+      font-size: 14px;
+      padding-left: 10px; } }
+  @media only screen and (max-width: 320px) {
+    .src-components-HikeSearch-_input--1OQcm {
+      font-size: 12px;
+      padding-left: 14px; } }
+
+.src-components-HikeSearch-_searchIcon--2N6F0 {
+  box-shadow: none;
+  position: absolute;
+  top: 4px;
+  right: 3px;
+  background: transparent;
+  border: none;
+  height: 32px;
+  width: 32px;
+  z-index: 3; }
+  .src-components-HikeSearch-_searchIcon--2N6F0:focus, .src-components-HikeSearch-_searchIcon--2N6F0:hover, .src-components-HikeSearch-_searchIcon--2N6F0:active {
+    background: transparent;
+    border: none; }
+  .src-components-HikeSearch-_searchIcon--2N6F0 img {
+    height: 30px;
+    width: 30px; }
+
+.src-components-HikeSearch-_searchWrapper--3qwBd {
+  position: relative;
+  margin-bottom: 5px;
+  width: 55%;
+  z-index: 3;
+  max-width: 400px; }
+  @media only screen and (max-width: 991px) {
+    .src-components-HikeSearch-_searchWrapper--3qwBd {
+      width: 81%; } }
+
+.src-components-HikeSearch-_show--30n2x {
+  display: block; }
+
+.src-components-HikeSearch-_hide--3EwJQ {
+  display: none !important; }
+
+.src-components-HikeSearch-_innerWrapper--1pB6w {
+  background: white;
+  font-family: "Poppins Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  height: 40px;
+  width: 100%;
+  border-radius: 30px;
+  box-shadow: 0 0 6px -2px #ced2d8;
+  border: 1px solid #ced2d8;
+  position: absolute;
+  top: -22px; }
+
+.src-components-TourCard-_tour--yN8gg {
+  height: 120px;
+  padding: 10px;
+  margin: 0 0 20px 20px;
+  cursor: pointer;
+  background: white;
+  border: 1px solid #B7CFD7;
+  box-shadow: 0 10px 10px 0 rgba(175, 191, 222, 0.19);
+  border-radius: 6px;
+  box-sizing: border-box;
+  transition: all cubic-bezier(0.4, 0, 1, 1) 0.2s; }
+  .src-components-TourCard-_tour--yN8gg:hover {
+    border: 3px solid #2584F1;
+    padding: 8px; }
+
+.src-components-TourCard-_info--20PBi {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden; }
+
+.src-components-TourCard-_title--UqQeJ {
+  font-family: "Poppins Medium", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 12px;
+  color: #30353F;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  padding-bottom: 6px; }
+  .src-components-TourCard-_title--UqQeJ.src-components-TourCard-_dbxColor--3z5N_ {
+    color: #704C9F; }
+
+.src-components-TourCard-_desc--3NUuC,
+.src-components-TourCard-_meta--1FR3Z {
+  font-family: "Poppins Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 12px;
+  color: #30353F;
+  height: 43px;
+  margin: 0;
+  overflow: hidden;
+  word-break: break-word; }
+
+.src-components-TourCard-_meta--1FR3Z {
+  display: flex;
+  align-items: flex-end; }
+
+.src-components-ToursList-_domainTitleWrapper--AS84o {
+  display: inline-flex;
+  width: 100%; }
+
+.src-components-ToursList-_title--30wP2 {
+  font-family: "Poppins Medium", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  color: #3F4E66;
+  white-space: nowrap;
+  line-height: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-bottom: 8px;
+  margin: 0; }
+
+.src-components-ToursList-_seeAll--1mD_Y {
+  font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 14px;
+  color: #297BFF;
+  position: absolute;
+  text-decoration: none;
+  right: 0; }
+
+.src-components-ToursList-_assetsContainer--35WIM {
+  margin-left: -20px; }
+
+.src-components-ToursList-_desc--2H436 {
+  font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 14px;
+  color: #525A6B;
+  text-align: justify; }
+
+.src-components-HikeBreadCrumb-_breadcrumbWrapper--3IBeg {
+  width: 100%;
+  margin: 10px 0; }
+  .src-components-HikeBreadCrumb-_breadcrumbWrapper--3IBeg a,
+  .src-components-HikeBreadCrumb-_breadcrumbWrapper--3IBeg span {
+    font-family: "Poppins Medium", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    color: #3F4E66; }
+  .src-components-HikeBreadCrumb-_breadcrumbWrapper--3IBeg a {
+    color: #2887F2; }
+
 .src-components-KonyButton-_konyButton--1zJKe {
   border-radius: 40px;
   padding: 18px 30px;
@@ -196,825 +404,6 @@
 .src-components-KonyButton-_filterCloseIcon--shvlF {
   width: 7px;
   margin-left: 10px; }
-
-.src-components-PageNotFound-_pageOuter--370ky {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: calc(100vh - 380px); }
-  @media only screen and (max-width: 767px) {
-    .src-components-PageNotFound-_pageOuter--370ky {
-      min-height: calc(100vh - 220px); } }
-
-.src-components-PageNotFound-_pageWrapper--SB7zu {
-  text-align: left;
-  margin-top: 30px;
-  padding-top: 20px;
-  max-width: 1024px; }
-  .src-components-PageNotFound-_pageWrapper--SB7zu h1 {
-    font-family: "RobotoSlab Bold", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 48px;
-    color: #FF6E75;
-    letter-spacing: 1px;
-    padding-bottom: 20px; }
-    @media only screen and (max-width: 991px) {
-      .src-components-PageNotFound-_pageWrapper--SB7zu h1 {
-        font-size: 38px; } }
-  .src-components-PageNotFound-_pageWrapper--SB7zu h2 {
-    font-family: "RobotoSlab Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 24px;
-    color: #20284B;
-    letter-spacing: 0; }
-    @media only screen and (max-width: 991px) {
-      .src-components-PageNotFound-_pageWrapper--SB7zu h2 {
-        font-size: 20px; } }
-  .src-components-PageNotFound-_pageWrapper--SB7zu h3 {
-    font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 18px;
-    color: #30353F;
-    letter-spacing: 0.5px;
-    line-height: 28px; }
-    @media only screen and (max-width: 991px) {
-      .src-components-PageNotFound-_pageWrapper--SB7zu h3 {
-        font-size: 12px; } }
-  .src-components-PageNotFound-_pageWrapper--SB7zu .src-components-PageNotFound-_button--ds8T6 {
-    margin-top: 10px; }
-    @media only screen and (max-width: 767px) {
-      .src-components-PageNotFound-_pageWrapper--SB7zu .src-components-PageNotFound-_button--ds8T6 {
-        border-radius: 40px; } }
-  .src-components-PageNotFound-_pageWrapper--SB7zu img {
-    height: auto;
-    width: auto; }
-    @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .src-components-PageNotFound-_pageWrapper--SB7zu img {
-        width: 90%; } }
-    @media only screen and (max-width: 767px) {
-      .src-components-PageNotFound-_pageWrapper--SB7zu img {
-        width: 80%; } }
-  @media only screen and (max-width: 767px) {
-    .src-components-PageNotFound-_pageWrapper--SB7zu {
-      padding: 10px;
-      text-align: center; } }
-
-.src-components-PageNotFound-_sidebarWrapper--3NUWZ {
-  padding-top: 80px; }
-
-.src-components-SiteHeader-_headerLayout--37D1n {
-  background-color: #f9fafc;
-  z-index: 1;
-  margin-right: auto;
-  margin-left: auto;
-  width: 100%;
-  top: 0;
-  padding: 20px 0; }
-  @media only screen and (max-width: 991px) {
-    .src-components-SiteHeader-_headerLayout--37D1n {
-      margin: 0;
-      padding: 20px 0 0; } }
-
-.src-components-SiteHeader-_header--TR3z3 {
-  background: transparent;
-  padding: 0; }
-  @media only screen and (max-width: 991px) {
-    .src-components-SiteHeader-_header--TR3z3 {
-      height: 46px;
-      margin: 0; } }
-
-.src-components-SiteHeader-_siteHeader--2rwd5 {
-  background: transparent;
-  margin: 0 auto;
-  padding: 0 7px;
-  width: 100%; }
-  @media (min-width: 576px) {
-    .src-components-SiteHeader-_siteHeader--2rwd5 {
-      width: 540px; } }
-  @media (min-width: 768px) {
-    .src-components-SiteHeader-_siteHeader--2rwd5 {
-      width: 720px; } }
-  @media (min-width: 992px) {
-    .src-components-SiteHeader-_siteHeader--2rwd5 {
-      width: 960px; } }
-  @media (min-width: 1200px) {
-    .src-components-SiteHeader-_siteHeader--2rwd5 {
-      width: 1155px; } }
-  @media only screen and (max-width: 767px) {
-    .src-components-SiteHeader-_siteHeader--2rwd5 {
-      margin-top: 6px; } }
-
-.src-components-SiteHeader-_cloudList--DWRSw {
-  font-size: 14px;
-  padding-left: 17px;
-  height: auto;
-  line-height: 14px;
-  list-style: none;
-  border-left: solid 3px transparent; }
-  .src-components-SiteHeader-_cloudList--DWRSw:hover, .src-components-SiteHeader-_cloudList--DWRSw.src-components-SiteHeader-_selected--3cX0W {
-    background-color: #EDF3F4;
-    border-left: solid 3px #267BFF; }
-
-.src-components-SiteHeader-_subMenuListItem--U42Gj, .src-components-SiteHeader-_subMenu--2ZQY4 li {
-  font-size: 14px;
-  padding-left: 17px;
-  height: 47px;
-  line-height: 37px;
-  list-style: none;
-  border-left: solid 3px transparent;
-  width: 100%; }
-  .src-components-SiteHeader-_subMenuListItem--U42Gj:first-child, .src-components-SiteHeader-_subMenu--2ZQY4 li:first-child {
-    border-radius: 6px 6px 0 0; }
-  .src-components-SiteHeader-_subMenuListItem--U42Gj:last-child, .src-components-SiteHeader-_subMenu--2ZQY4 li:last-child {
-    border-radius: 0 0 6px 6px; }
-  .src-components-SiteHeader-_subMenuListItem--U42Gj:hover, .src-components-SiteHeader-_subMenu--2ZQY4 li:hover, .src-components-SiteHeader-_subMenuListItem--U42Gj.src-components-SiteHeader-_selected--3cX0W, .src-components-SiteHeader-_subMenu--2ZQY4 li.src-components-SiteHeader-_selected--3cX0W {
-    background-color: #EDF3F4;
-    border-left: solid 3px #267BFF; }
-  .src-components-SiteHeader-_subMenuListItem--U42Gj div, .src-components-SiteHeader-_subMenu--2ZQY4 li div {
-    padding-left: 0;
-    margin: 0;
-    width: 100%;
-    font-size: 14px;
-    height: 47px;
-    line-height: 37px;
-    list-style: none;
-    border-left: solid 3px transparent; }
-    .src-components-SiteHeader-_subMenuListItem--U42Gj div:hover, .src-components-SiteHeader-_subMenu--2ZQY4 li div:hover, .src-components-SiteHeader-_subMenuListItem--U42Gj div.src-components-SiteHeader-_selected--3cX0W, .src-components-SiteHeader-_subMenu--2ZQY4 li div.src-components-SiteHeader-_selected--3cX0W {
-      background-color: #EDF3F4; }
-
-.src-components-SiteHeader-_subMenu--2ZQY4 {
-  background: white;
-  width: 282px;
-  border-radius: 6px;
-  box-shadow: 0 4px 7px rgba(5, 53, 134, 0.17);
-  padding: 0; }
-
-.src-components-SiteHeader-_heading--2R46m h3 {
-  color: #37414B;
-  font-size: 16px;
-  text-align: center;
-  line-height: 2;
-  font-family: "Poppins SemiBold", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  margin: 0;
-  letter-spacing: 1.78px; }
-
-.src-components-SiteHeader-_logo--3cHO- {
-  z-index: 99;
-  cursor: pointer;
-  position: relative;
-  display: block;
-  outline: 0;
-  height: 74px;
-  float: left; }
-  @media only screen and (max-width: 991px) {
-    .src-components-SiteHeader-_logo--3cHO- {
-      height: 36px;
-      position: absolute;
-      left: 8px; } }
-
-.src-components-SiteHeader-_menuBar--3dFSp {
-  background: transparent;
-  border: 0;
-  float: right;
-  line-height: 2;
-  padding-top: 6px; }
-  @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .src-components-SiteHeader-_menuBar--3dFSp {
-      padding-top: 0; } }
-
-.src-components-SiteHeader-_userMenuItem--13S_o {
-  border: solid 1px transparent !important;
-  font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 14px;
-  text-align: center;
-  transition: none;
-  line-height: 1;
-  margin-left: 6px;
-  padding-right: 0;
-  top: 2px !important; }
-  .src-components-SiteHeader-_userMenuItem--13S_o .src-components-SiteHeader-_loginLink--1VbMM {
-    color: #297BFF !important;
-    line-height: 2;
-    text-align: right;
-    margin-right: 2px; }
-  @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .src-components-SiteHeader-_userMenuItem--13S_o {
-      font-size: 11px; } }
-
-.src-components-SiteHeader-_menuItem--36pr0 {
-  border: solid 1px transparent !important;
-  font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 14px;
-  color: #30353F !important;
-  text-align: center;
-  padding: 7px 13px;
-  transition: none;
-  line-height: 1;
-  margin: 0 6px; }
-  .src-components-SiteHeader-_menuItem--36pr0 .src-components-SiteHeader-_dropdownLink--pHcLQ {
-    color: #30353F !important; }
-  .src-components-SiteHeader-_menuItem--36pr0 .src-components-SiteHeader-_dropdownCaret--2LXiV {
-    margin-left: 5px;
-    width: 12px; }
-    @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .src-components-SiteHeader-_menuItem--36pr0 .src-components-SiteHeader-_dropdownCaret--2LXiV {
-        padding-left: 0; } }
-  .src-components-SiteHeader-_menuItem--36pr0 > a {
-    color: #30353F !important; }
-  .src-components-SiteHeader-_menuItem--36pr0:hover, .src-components-SiteHeader-_menuItem--36pr0.src-components-SiteHeader-_selected--3cX0W {
-    border: solid 1px #889398 !important;
-    border-radius: 15px;
-    color: #30353F !important; }
-  @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .src-components-SiteHeader-_menuItem--36pr0 {
-      font-size: 11px;
-      padding: 5px 10px;
-      margin: 0 3px; } }
-
-.src-components-SiteHeader-_mobileMenuWrapper--nf6OO {
-  background: white;
-  display: block;
-  top: 0;
-  transition: all 0.8s !important;
-  width: 100% !important;
-  z-index: 1110 !important; }
-
-.src-components-SiteHeader-_hamburgerMenu--1581- {
-  line-height: 3;
-  padding-top: 2px; }
-
-.src-components-SiteHeader-_hamburgerMenuIcon--3a0GW {
-  height: 26px;
-  vertical-align: top;
-  width: 26px; }
-
-.src-components-SiteHeader-_mobileMenuPanel--2H5OA {
-  padding: 15px; }
-
-.src-components-SiteHeader-_mobileMenuCloseButton--3hu4h {
-  float: right;
-  color: #00B9FF;
-  cursor: pointer;
-  font-weight: bolder;
-  font-size: 16px;
-  margin: 10px; }
-
-.src-components-SiteHeader-_dropdownClick--fCJa9 {
-  width: 83px;
-  text-decoration: none !important; }
-
-.src-components-SiteHeader-_menu--35no5 {
-  border: none;
-  padding-top: 40px; }
-
-.src-components-SiteHeader-_mobileMenuItems--1ub2W.src-components-SiteHeader-_ant-menu-item-selected--36KnI {
-  background: transparent; }
-  .src-components-SiteHeader-_mobileMenuItems--1ub2W.src-components-SiteHeader-_ant-menu-item-selected--36KnI a {
-    color: #1890ff; }
-  .src-components-SiteHeader-_mobileMenuItems--1ub2W.src-components-SiteHeader-_ant-menu-item-selected--36KnI:after {
-    display: none; }
-
-.src-components-SiteHeader-_mobileMenuItems--1ub2W a {
-  color: #333333; }
-
-.src-components-SiteHeader-_mobileMenuItems--1ub2W.src-components-SiteHeader-_selectedItem--11Iw4 a {
-  color: #1890ff; }
-
-.src-components-SiteHeader-_mobileMenuItems--1ub2W div {
-  text-transform: capitalize; }
-
-.src-components-SiteHeader-_cloudItem--31ue2 {
-  background: transparent !important; }
-  .src-components-SiteHeader-_cloudItem--31ue2::after {
-    display: none; }
-  .src-components-SiteHeader-_cloudItem--31ue2.src-components-SiteHeader-_cloudSelectedItem--3vutF {
-    background: transparent; }
-    .src-components-SiteHeader-_cloudItem--31ue2.src-components-SiteHeader-_cloudSelectedItem--3vutF a {
-      color: #1890ff; }
-
-.src-components-SiteHeader-_hide--2tJn2 {
-  display: none !important; }
-
-.src-components-SiteHeader-_loginLinkMenu--34BgE {
-  border: none !important;
-  outline: none; }
-  .src-components-SiteHeader-_loginLinkMenu--34BgE .src-components-SiteHeader-_loginLink--1VbMM {
-    color: #297BFF !important;
-    line-height: 2.3;
-    text-align: right;
-    margin-right: 2px; }
-    .src-components-SiteHeader-_loginLinkMenu--34BgE .src-components-SiteHeader-_loginLink--1VbMM:hover, .src-components-SiteHeader-_loginLinkMenu--34BgE .src-components-SiteHeader-_loginLink--1VbMM:focus, .src-components-SiteHeader-_loginLinkMenu--34BgE .src-components-SiteHeader-_loginLink--1VbMM:active {
-      opacity: 0.9; }
-
-.src-components-SiteHeader-_mobileMenuDropdown--3P11L {
-  background: white;
-  width: 282px;
-  border-radius: 6px;
-  box-shadow: 0 4px 7px rgba(5, 53, 134, 0.17);
-  padding: 0; }
-  .src-components-SiteHeader-_mobileMenuDropdown--3P11L li {
-    font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 14px;
-    color: #646E83;
-    list-style: none;
-    border-left: solid 3px transparent; }
-    .src-components-SiteHeader-_mobileMenuDropdown--3P11L li:first-child {
-      border-radius: 6px 6px 0 0; }
-    .src-components-SiteHeader-_mobileMenuDropdown--3P11L li:last-child {
-      border-radius: 0 0 6px 6px; }
-    .src-components-SiteHeader-_mobileMenuDropdown--3P11L li:hover, .src-components-SiteHeader-_mobileMenuDropdown--3P11L li.src-components-SiteHeader-_selected--3cX0W {
-      background-color: #EDF3F4;
-      border-left: solid 3px #267BFF; }
-
-.src-components-SiteHeader-_cloudMenuDropdownWrapper--24paQ {
-  z-index: 1111; }
-
-.src-components-SiteHeader-_icon--4hXlS {
-  font-size: 24px;
-  width: 24px; }
-
-.src-components-SiteHeader-_cloudMenu--2FQqh {
-  width: 270px;
-  z-index: 1051 !important; }
-  .src-components-SiteHeader-_cloudMenu--2FQqh.src-components-SiteHeader-_Marketplace--OyPfk > div {
-    border-left: solid 3px transparent;
-    color: #646E83;
-    font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 14px;
-    line-height: 37px;
-    list-style: none;
-    width: 100%; }
-    .src-components-SiteHeader-_cloudMenu--2FQqh.src-components-SiteHeader-_Marketplace--OyPfk > div:hover, .src-components-SiteHeader-_cloudMenu--2FQqh.src-components-SiteHeader-_Marketplace--OyPfk > div.src-components-SiteHeader-_selected--3cX0W {
-      background-color: #EDF3F4;
-      border-left: solid 3px #267BFF; }
-  .src-components-SiteHeader-_cloudMenu--2FQqh ul {
-    padding: 0; }
-
-.src-components-SiteHeader-_cloudMenuItemMeta--39jXM {
-  padding-top: 5px; }
-  .src-components-SiteHeader-_cloudMenuItemMeta--39jXM h3 {
-    font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 16px;
-    color: #646E83;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis; }
-  .src-components-SiteHeader-_cloudMenuItemMeta--39jXM h4 {
-    font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 12px;
-    color: #788EA9;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis; }
-
-.src-components-KonyGravatar-_gravatarWrapper--2uM84 {
-  border-radius: 50%; }
-
-.src-components-KonyGravatar-_gravatar--1eCkO {
-  background: #8A96AF;
-  border-radius: 50%;
-  height: 35px;
-  width: 35px; }
-  @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .src-components-KonyGravatar-_gravatar--1eCkO {
-      height: 30px;
-      width: 30px; } }
-
-.src-components-KonyGravatar-_initials--1rXd1 {
-  background: #EE6B6B;
-  color: white;
-  border-radius: 50%;
-  font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  height: 36px;
-  width: 36px;
-  font-size: 18px;
-  margin: 0 auto; }
-
-.src-components-SiteFooter-_footer--1a6rv {
-  font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 14px;
-  color: #646E83;
-  text-align: center;
-  margin-bottom: 10px; }
-
-.src-components-SiteFooter-_footerContainer--2ykzB {
-  display: flex;
-  justify-content: center;
-  padding: 40px 0; }
-  @media only screen and (max-width: 991px) {
-    .src-components-SiteFooter-_footerContainer--2ykzB {
-      padding: 30px 15px; } }
-
-.src-components-SiteFooter-_privacyPolicy--373kJ {
-  font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 14px;
-  color: #297BFF;
-  margin: 0 auto;
-  width: 30%;
-  text-align: center; }
-  .src-components-SiteFooter-_privacyPolicy--373kJ:focus, .src-components-SiteFooter-_privacyPolicy--373kJ:hover, .src-components-SiteFooter-_privacyPolicy--373kJ:active {
-    color: #297BFF;
-    text-decoration: underline; }
-  @media only screen and (max-width: 767px) {
-    .src-components-SiteFooter-_privacyPolicy--373kJ {
-      color: #00B9FF; }
-      .src-components-SiteFooter-_privacyPolicy--373kJ:focus, .src-components-SiteFooter-_privacyPolicy--373kJ:hover, .src-components-SiteFooter-_privacyPolicy--373kJ:active {
-        color: #00B9FF;
-        text-decoration: underline; } }
-
-.src-components-SiteFooter-_companyLogo--UCtRZ {
-  display: inline-block;
-  width: 42px;
-  height: 42px; }
-  .src-components-SiteFooter-_companyLogo--UCtRZ:hover, .src-components-SiteFooter-_companyLogo--UCtRZ:active, .src-components-SiteFooter-_companyLogo--UCtRZ:focus {
-    background-color: transparent; }
-
-.src-components-SiteFooter-_hide--3aJnf {
-  display: none !important; }
-
-.src-components-KonyLayout-_container--1m5CB {
-  margin: 20px auto;
-  min-height: calc(100vh - 290px);
-  width: 100%; }
-  @media (min-width: 576px) {
-    .src-components-KonyLayout-_container--1m5CB {
-      width: 540px; } }
-  @media (min-width: 768px) {
-    .src-components-KonyLayout-_container--1m5CB {
-      width: 720px; } }
-  @media (min-width: 992px) {
-    .src-components-KonyLayout-_container--1m5CB {
-      width: 960px; } }
-  @media (min-width: 1200px) {
-    .src-components-KonyLayout-_container--1m5CB {
-      width: 1155px; } }
-  @media only screen and (min-width: 992px) {
-    .src-components-KonyLayout-_container--1m5CB {
-      min-height: calc(100vh - 295px); } }
-  @media only screen and (max-width: 767px) {
-    .src-components-KonyLayout-_container--1m5CB {
-      margin: 0 auto; } }
-
-.src-components-KonyLayout-_appRoot--35OR9 {
-  background: #f9fafc;
-  font-family: "Poppins Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 13px;
-  line-height: 20px; }
-
-.src-components-KonyLayout-_divider--1FBvf {
-  border-top: 1px solid rgba(48, 53, 63, 0.1); }
-
-.src-components-KonyLayout-_hide--1YU0W {
-  display: none; }
-
-.src-components-MarketplaceHeader-_headerTitle--KRgvH {
-  font-family: "RobotoSlab Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 28px;
-  margin-bottom: 15px; }
-
-.src-components-MarketplaceHeader-_headersubTitle--2hTvj {
-  color: #8A96AF;
-  font-family: "RobotoSlab Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 20px;
-  margin-bottom: 20px; }
-
-.src-components-MarketplaceHeader-_siteHeader--1B93O {
-  background: transparent;
-  margin: 0 auto;
-  padding: 0 7px;
-  width: 100%; }
-  @media (min-width: 576px) {
-    .src-components-MarketplaceHeader-_siteHeader--1B93O {
-      width: 540px; } }
-  @media (min-width: 768px) {
-    .src-components-MarketplaceHeader-_siteHeader--1B93O {
-      width: 720px; } }
-  @media (min-width: 992px) {
-    .src-components-MarketplaceHeader-_siteHeader--1B93O {
-      width: 960px; } }
-  @media (min-width: 1200px) {
-    .src-components-MarketplaceHeader-_siteHeader--1B93O {
-      width: 1155px; } }
-  @media only screen and (max-width: 767px) {
-    .src-components-MarketplaceHeader-_siteHeader--1B93O {
-      margin: 5px auto 0; } }
-
-.src-components-KonySearch-_input--3TQnU {
-  border-radius: 30px;
-  border: 1px solid transparent;
-  box-shadow: none;
-  height: 54px;
-  padding-left: 20px;
-  padding-bottom: 5px;
-  width: 100%;
-  z-index: 2;
-  font-size: 15px;
-  font-family: "Poppins Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #20284B;
-  background: transparent; }
-  .src-components-KonySearch-_input--3TQnU:focus, .src-components-KonySearch-_input--3TQnU:hover {
-    box-shadow: none;
-    border: 1px solid transparent; }
-  @media only screen and (max-width: 767px) {
-    .src-components-KonySearch-_input--3TQnU {
-      border-radius: 20px;
-      height: 36px;
-      font-size: 14px;
-      padding-left: 10px; } }
-  @media only screen and (max-width: 320px) {
-    .src-components-KonySearch-_input--3TQnU {
-      font-size: 12px;
-      padding-left: 14px; } }
-
-.src-components-KonySearch-_searchIcon--1iH_3 {
-  position: absolute;
-  box-shadow: none;
-  right: 8px;
-  top: 8px;
-  background: transparent;
-  border: none;
-  height: 40px;
-  width: 40px;
-  z-index: 3; }
-  .src-components-KonySearch-_searchIcon--1iH_3:focus, .src-components-KonySearch-_searchIcon--1iH_3:hover, .src-components-KonySearch-_searchIcon--1iH_3:active {
-    background: transparent;
-    border: none; }
-  .src-components-KonySearch-_searchIcon--1iH_3 img {
-    width: 40px;
-    height: 40px; }
-    @media only screen and (max-width: 767px) {
-      .src-components-KonySearch-_searchIcon--1iH_3 img {
-        height: 30px;
-        width: 30px; } }
-  @media only screen and (max-width: 767px) {
-    .src-components-KonySearch-_searchIcon--1iH_3 {
-      height: 32px;
-      width: 32px;
-      top: 3px;
-      right: 3px; } }
-
-.src-components-KonySearch-_searchWrapper--1oI2r {
-  position: relative;
-  margin-bottom: 5px;
-  width: 55%;
-  height: 54px;
-  z-index: 3; }
-  @media only screen and (max-width: 991px) {
-    .src-components-KonySearch-_searchWrapper--1oI2r {
-      width: 81%; } }
-
-.src-components-KonySearch-_show--2Itax {
-  display: block; }
-
-.src-components-KonySearch-_dropdown--1F3uf {
-  background: transparent;
-  width: 100%;
-  z-index: 2;
-  border-radius: 30px;
-  border: 0;
-  min-height: 50px;
-  max-height: 420px;
-  overflow-y: auto; }
-  .src-components-KonySearch-_dropdown--1F3uf ul {
-    list-style: none;
-    margin: 0 20px;
-    padding: 0;
-    border-top: 1px solid #eee; }
-    .src-components-KonySearch-_dropdown--1F3uf ul li {
-      padding: 8px 0; }
-      .src-components-KonySearch-_dropdown--1F3uf ul li.src-components-KonySearch-_noResultMessage--RKnVL,
-      .src-components-KonySearch-_dropdown--1F3uf ul li a {
-        font-size: 14px;
-        font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-        color: #30353F; }
-  @media only screen and (max-width: 767px) {
-    .src-components-KonySearch-_dropdown--1F3uf {
-      border-radius: 20px;
-      min-height: 40px; } }
-
-.src-components-KonySearch-_hide--aLPGy {
-  display: none !important; }
-
-.src-components-KonySearch-_innerWrapper--1xqJb {
-  background: white;
-  width: 100%;
-  border-radius: 30px;
-  box-shadow: 0 0 16px -6px rgba(63, 78, 102, 0.07);
-  border: 1px solid #ced2d8;
-  position: absolute; }
-  @media only screen and (max-width: 767px) {
-    .src-components-KonySearch-_innerWrapper--1xqJb {
-      border-radius: 20px; } }
-
-.src-components-KonySearch-_spinner--3KUOY {
-  position: absolute;
-  right: 55px;
-  z-index: 3;
-  font-size: 28px;
-  top: 12px;
-  color: #8A96AF; }
-  @media only screen and (max-width: 767px) {
-    .src-components-KonySearch-_spinner--3KUOY {
-      right: 39px;
-      font-size: 24px;
-      top: 6px; } }
-
-.src-components-HikeHeader-_headerRow--3w-lt {
-  background-color: #f9fafc;
-  height: 115px;
-  width: 100%;
-  margin-bottom: 20px; }
-
-.src-components-HikeHeader-_headerLayout--tnIEI {
-  background-color: #f9fafc;
-  z-index: 1;
-  height: 115px;
-  width: 100%;
-  top: 0;
-  padding-left: 20px;
-  margin: 0 auto;
-  max-width: 1440px; }
-
-.src-components-HikeHeader-_logo--1NTTx {
-  max-width: 66px;
-  margin-top: 20px;
-  position: relative;
-  z-index: 4; }
-
-.src-components-HikeHeader-_header--N33B7 {
-  background: transparent;
-  padding: 0;
-  height: 115px;
-  position: relative;
-  overflow: hidden; }
-
-.src-components-HikeHeader-_hide--2VwXw {
-  display: none !important; }
-
-.src-components-HikeHeader-_search--5eQst {
-  display: block;
-  position: relative; }
-
-.src-components-HikeHeader-_camp--3ys2l {
-  position: absolute;
-  right: 0; }
-
-.src-components-HikeSearch-_input--1OQcm {
-  border-radius: 30px;
-  border: 1px solid transparent;
-  box-shadow: none;
-  height: 40px;
-  padding-left: 20px;
-  padding-bottom: 6px;
-  width: 100%;
-  z-index: 2;
-  font-size: 15px;
-  font-family: "Poppins Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #30353F;
-  background: transparent; }
-  .src-components-HikeSearch-_input--1OQcm:focus, .src-components-HikeSearch-_input--1OQcm:hover {
-    box-shadow: none;
-    border: 1px solid transparent; }
-  @media only screen and (max-width: 767px) {
-    .src-components-HikeSearch-_input--1OQcm {
-      height: 36px;
-      font-size: 14px;
-      padding-left: 10px; } }
-  @media only screen and (max-width: 320px) {
-    .src-components-HikeSearch-_input--1OQcm {
-      font-size: 12px;
-      padding-left: 14px; } }
-
-.src-components-HikeSearch-_searchIcon--2N6F0 {
-  box-shadow: none;
-  position: absolute;
-  top: 4px;
-  right: 3px;
-  background: transparent;
-  border: none;
-  height: 32px;
-  width: 32px;
-  z-index: 3; }
-  .src-components-HikeSearch-_searchIcon--2N6F0:focus, .src-components-HikeSearch-_searchIcon--2N6F0:hover, .src-components-HikeSearch-_searchIcon--2N6F0:active {
-    background: transparent;
-    border: none; }
-  .src-components-HikeSearch-_searchIcon--2N6F0 img {
-    height: 30px;
-    width: 30px; }
-
-.src-components-HikeSearch-_searchWrapper--3qwBd {
-  position: relative;
-  margin-bottom: 5px;
-  width: 55%;
-  z-index: 3;
-  max-width: 400px; }
-  @media only screen and (max-width: 991px) {
-    .src-components-HikeSearch-_searchWrapper--3qwBd {
-      width: 81%; } }
-
-.src-components-HikeSearch-_show--30n2x {
-  display: block; }
-
-.src-components-HikeSearch-_hide--3EwJQ {
-  display: none !important; }
-
-.src-components-HikeSearch-_innerWrapper--1pB6w {
-  background: white;
-  font-family: "Poppins Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  height: 40px;
-  width: 100%;
-  border-radius: 30px;
-  box-shadow: 0 0 6px -2px #ced2d8;
-  border: 1px solid #ced2d8;
-  position: absolute;
-  top: -22px; }
-
-.src-components-HikeBreadCrumb-_breadcrumbWrapper--3IBeg {
-  width: 100%;
-  margin: 10px 0; }
-  .src-components-HikeBreadCrumb-_breadcrumbWrapper--3IBeg a,
-  .src-components-HikeBreadCrumb-_breadcrumbWrapper--3IBeg span {
-    font-family: "Poppins Medium", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    font-size: 16px;
-    color: #3F4E66; }
-  .src-components-HikeBreadCrumb-_breadcrumbWrapper--3IBeg a {
-    color: #2887F2; }
-
-.src-components-TourCard-_tour--yN8gg {
-  height: 120px;
-  padding: 10px;
-  margin: 0 0 20px 20px;
-  cursor: pointer;
-  background: white;
-  border: 1px solid #B7CFD7;
-  box-shadow: 0 10px 10px 0 rgba(175, 191, 222, 0.19);
-  border-radius: 6px;
-  box-sizing: border-box;
-  transition: all cubic-bezier(0.4, 0, 1, 1) 0.2s; }
-  .src-components-TourCard-_tour--yN8gg:hover {
-    border: 3px solid #2584F1;
-    padding: 8px; }
-
-.src-components-TourCard-_info--20PBi {
-  display: flex;
-  height: 100%;
-  flex-direction: column;
-  justify-content: space-between;
-  overflow: hidden; }
-
-.src-components-TourCard-_title--UqQeJ {
-  font-family: "Poppins Medium", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 12px;
-  color: #30353F;
-  margin: 0;
-  white-space: nowrap;
-  overflow: hidden;
-  padding-bottom: 6px; }
-  .src-components-TourCard-_title--UqQeJ.src-components-TourCard-_dbxColor--3z5N_ {
-    color: #704C9F; }
-
-.src-components-TourCard-_desc--3NUuC,
-.src-components-TourCard-_meta--1FR3Z {
-  font-family: "Poppins Light", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 12px;
-  color: #30353F;
-  height: 43px;
-  margin: 0;
-  overflow: hidden;
-  word-break: break-word; }
-
-.src-components-TourCard-_meta--1FR3Z {
-  display: flex;
-  align-items: flex-end; }
-
-.src-components-ToursList-_domainTitleWrapper--AS84o {
-  display: inline-flex;
-  width: 100%; }
-
-.src-components-ToursList-_title--30wP2 {
-  font-family: "Poppins Medium", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 16px;
-  color: #3F4E66;
-  white-space: nowrap;
-  line-height: 1;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  padding-bottom: 8px;
-  margin: 0; }
-
-.src-components-ToursList-_seeAll--1mD_Y {
-  font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 14px;
-  color: #297BFF;
-  position: absolute;
-  text-decoration: none;
-  right: 0; }
-
-.src-components-ToursList-_assetsContainer--35WIM {
-  margin-left: -20px; }
-
-.src-components-ToursList-_desc--2H436 {
-  font-family: "Poppins Regular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 14px;
-  color: #525A6B;
-  text-align: justify; }
 
 .pages-_hide--2lx70 {
   display: none !important; }
