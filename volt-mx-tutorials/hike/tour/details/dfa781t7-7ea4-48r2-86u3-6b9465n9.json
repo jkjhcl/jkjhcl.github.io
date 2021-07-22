@@ -7,7 +7,7 @@
     "fileSize": "23.26 KB",
     "fileName": "flexpropertiesv9.zip",
     "fid": 17802,
-    "checksum": "372c23667ede05ad535f17ac3c7e7c6892782931170c07e8d8f4968b621853ec",
+    "checksum": "e4346880d072f1b5dc0f8a610704f47d9f1bd3abc971094e96b33614a08e4444",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/flex-layout-properties-0",
     "alias": "hikes/tour/flex-layout-properties-0",
     "description": "Manage flex layout using properties.",
@@ -20,6 +20,6 @@
     "kuid": "dfa781t7-7ea4-48r2-86u3-6b9465n9",
     "hikeVersion": "1.0",
     "weight": "3",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/4-develop-the-front-end/zips/flexpropertiesv9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/flexpropertiesv9.zip"
   }
 }

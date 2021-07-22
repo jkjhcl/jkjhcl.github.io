@@ -7,7 +7,7 @@
     "fileSize": "20.28 KB",
     "fileName": "createservicesweb_v9.zip",
     "fid": 17163,
-    "checksum": "3f1657582cba76924c71dac96e2b38c79a1e728eb0bd5e0ec95bf5f234dbcadc",
+    "checksum": "560ded63da0ac6416f95c7e7bbe816297f4752d8b6ae0ef201482a46a762d7af",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/creating-services-back-end-data-0",
     "alias": "hikes/tour/creating-services-back-end-data-0",
     "description": "Creating Services for Back-end Data",
@@ -20,6 +20,6 @@
     "kuid": "a851b9t8-75a9-4ara-88ud-946004n9",
     "hikeVersion": "1.0",
     "weight": "4",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/3-build-your-first-web-app/zips/createservicesweb_v9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/3-build-your-first-web-app/zips/createservicesweb_v9.zip"
   }
 }

@@ -7,7 +7,7 @@
     "fileSize": "60.11 KB",
     "fileName": "editpayeeweb_v9.zip",
     "fid": 17799,
-    "checksum": "9536975c333ba0217f0b778f4b66856bcb4474c59d21ea77a096ec6b071f53ff",
+    "checksum": "74705d2965f3c102158ea6a04bccbd94952b196004c991047e4e70b93f95fd78",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/add-edit-recipient-0",
     "alias": "hikes/tour/add-edit-recipient-0",
     "description": "Add the capability to edit the details of a recipient.",
@@ -20,6 +20,6 @@
     "kuid": "c108beta-87ac-46re-87u3-92e61cnf",
     "hikeVersion": "1.0",
     "weight": "8",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/3-build-your-first-web-app/zips/editpayeeweb_v9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/3-build-your-first-web-app/zips/editpayeeweb_v9.zip"
   }
 }
