@@ -7,7 +7,7 @@
     "fileSize": "22.53 KB",
     "fileName": "assigndatatothesegmentv9.zip",
     "fid": 17804,
-    "checksum": "bface80b653319274f31a66ddb800aea0e743bddf1bc03dbbaa589734be2af30",
+    "checksum": "fda1cddb54b138daf7efe55239d9f3158ff112827535fb3c7a274bb606c04070",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/assign-data-segment-0",
     "alias": "hikes/tour/assign-data-segment-0",
     "description": "Learn how to assign data to a Segment widget.",
@@ -20,6 +20,6 @@
     "kuid": "06a5e8td-11a4-41r7-bbua-0696bane",
     "hikeVersion": "1.0",
     "weight": "5",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/4-develop-the-front-end/zips/assigndatatothesegmentv9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/assigndatatothesegmentv9.zip"
   }
 }

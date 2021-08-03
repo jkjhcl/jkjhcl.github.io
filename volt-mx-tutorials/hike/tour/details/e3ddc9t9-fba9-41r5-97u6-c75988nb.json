@@ -7,7 +7,7 @@
     "fileSize": "22.24 KB",
     "fileName": "addasalesforceservicev9.zip",
     "fid": 17157,
-    "checksum": "97a54adbe1af3e29d877eae268b79ee5e5d18a305bd90aece6bf8ee8bfb5111a",
+    "checksum": "40331e5f6aca13b98b2120feb3485e164f115298ccae0784739a3b4d8dce8ec9",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/add-salesforce-service-0",
     "alias": "hikes/tour/add-salesforce-service-0",
     "description": "Learn how to add a Salesforce service to your app.",
@@ -20,6 +20,6 @@
     "kuid": "e3ddc9t9-fba9-41r5-97u6-c75988nb",
     "hikeVersion": "1.0",
     "weight": "2",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/5-manage-back-end-services/zips/addasalesforceservicev9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/5-manage-back-end-services/zips/addasalesforceservicev9.zip"
   }
 }

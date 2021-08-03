@@ -7,7 +7,7 @@
     "fileSize": "59.92 KB",
     "fileName": "addcreatemob_v9.zip",
     "fid": 17793,
-    "checksum": "ee86c99b4c4bff28b3360b23363fccf5bfea503f21d2ed7a54dee15c5e097931",
+    "checksum": "26ff9ec474ee6f728acd878e2c08aad7955138efd4030332860b33b145ec9721",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/add-create-recipient",
     "alias": "hikes/tour/add-create-recipient",
     "description": "Add the capability to create a new recipient.",
@@ -20,6 +20,6 @@
     "kuid": "da2bbctf-3ba6-49rf-b2u9-b842dand",
     "hikeVersion": "1.0",
     "weight": "7",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/2-build-your-first-mobile-app/zips/addcreatemob_v9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/2-build-your-first-mobile-app/zips/addcreatemob_v9.zip"
   }
 }

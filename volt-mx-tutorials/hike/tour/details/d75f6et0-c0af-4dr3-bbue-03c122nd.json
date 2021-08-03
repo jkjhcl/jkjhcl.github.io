@@ -7,7 +7,7 @@
     "fileSize": "17.39 KB",
     "fileName": "usesampleservicesv9.zip",
     "fid": 17159,
-    "checksum": "b003880de9fc6a88cee28b448af6e4659a718a4e70a7673b326de1cf55a67a3c",
+    "checksum": "3e1a032eb70a38a7a9271fe0abc62a75b2411aa82fcd845f76bf74c441d7bf77",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/use-sample-services-0",
     "alias": "hikes/tour/use-sample-services-0",
     "description": "Connect a sample back-end database to a form",
@@ -20,6 +20,6 @@
     "kuid": "d75f6et0-c0af-4dr3-bbue-03c122nd",
     "hikeVersion": "1.0",
     "weight": "4",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/5-manage-back-end-services/zips/usesampleservicesv9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/5-manage-back-end-services/zips/usesampleservicesv9.zip"
   }
 }

@@ -7,7 +7,7 @@
     "fileSize": "17.36 KB",
     "fileName": "understandingapplicationchannelsv9.zip",
     "fid": 17152,
-    "checksum": "5ed8e7c4bdefc2eca2327cae05c478a2d22783585dfacac4042d7df53c0d109b",
+    "checksum": "647e65613b5426c87c62f2f90c899a5169879a46b0b4fa3e15e14eb3432bd10b",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/understand-app-channels-0",
     "alias": "hikes/tour/understand-app-channels-0",
     "description": "Explore a sample app designed for various application channels.",
@@ -20,6 +20,6 @@
     "kuid": "70ff95t1-f7a5-4brd-99u8-8ce9b5nc",
     "hikeVersion": "1.0",
     "weight": "9",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/4-develop-the-front-end/zips/understandingapplicationchannelsv9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/understandingapplicationchannelsv9.zip"
   }
 }

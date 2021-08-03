@@ -7,7 +7,7 @@
     "fileSize": "13.57 KB",
     "fileName": "shareandpreviewappmobilev9.zip",
     "fid": 17125,
-    "checksum": "b2589d92b2900e2ced92f894086305968155a612c440cf1e03129b26d8e817dd",
+    "checksum": "f3d08ef461538d9ba1ae04d4a638cf4ef8d281651475670bd312e2a7389dca27",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/publish-and-share-app",
     "alias": "hikes/tour/publish-and-share-app",
     "description": "Use the Volt MX App to preview the Recipients app on a mobile device.",
@@ -20,6 +20,6 @@
     "kuid": "ec5ceatd-50a0-4fre-b3u7-c3e41cn2",
     "hikeVersion": "1.0",
     "weight": "9",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/2-build-your-first-mobile-app/zips/shareandpreviewappmobilev9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/2-build-your-first-mobile-app/zips/shareandpreviewappmobilev9.zip"
   }
 }

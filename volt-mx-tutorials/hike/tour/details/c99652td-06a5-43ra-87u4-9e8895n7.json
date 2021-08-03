@@ -7,7 +7,7 @@
     "fileSize": "26 KB",
     "fileName": "introductiontosegmenttemplatesv9.zip",
     "fid": 17805,
-    "checksum": "9fc9e2b6ac6ff4138828b71d312c9443cdbdd2190e7c6fd0bf630109a3e47914",
+    "checksum": "319f3ce39baadf78a1f28e6c5a2cce0fdfa3a5a47c787bcd9719db98567ac638",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/introduction-segment-templates-0",
     "alias": "hikes/tour/introduction-segment-templates-0",
     "description": "Know more about using Segment Templates.",
@@ -20,6 +20,6 @@
     "kuid": "c99652td-06a5-43ra-87u4-9e8895n7",
     "hikeVersion": "1.0",
     "weight": "6",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/4-develop-the-front-end/zips/introductiontosegmenttemplatesv9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/introductiontosegmenttemplatesv9.zip"
   }
 }

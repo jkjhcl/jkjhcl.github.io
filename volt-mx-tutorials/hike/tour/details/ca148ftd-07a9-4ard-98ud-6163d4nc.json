@@ -7,7 +7,7 @@
     "fileSize": "24.57 KB",
     "fileName": "connecttheappuitodata-webv9.zip",
     "fid": 17797,
-    "checksum": "39ed731e7e5ae70d317a0af532913b80abba0f61f8f482921a11d76e203c9cec",
+    "checksum": "aef8dc511c78500a4141a0ff1e770dbd1504f94d23f10cd48743850757c5c6b6",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/connect-app-ui-data-0",
     "alias": "hikes/tour/connect-app-ui-data-0",
     "description": "Connect App UI to Data",
@@ -20,6 +20,6 @@
     "kuid": "ca148ftd-07a9-4ard-98ud-6163d4nc",
     "hikeVersion": "1.0",
     "weight": "5",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/3-build-your-first-web-app/zips/connecttheappuitodata-webv9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/3-build-your-first-web-app/zips/connecttheappuitodata-webv9.zip"
   }
 }

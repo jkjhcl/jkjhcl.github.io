@@ -7,7 +7,7 @@
     "fileSize": "23.96 KB",
     "fileName": "introflexlayoutv9.zip",
     "fid": 17801,
-    "checksum": "fa5f612cf1a35cf81c412fd13d2fd334217442443c77677295a255e7cf9f1844",
+    "checksum": "ad3ba3d6fddc785559f4885f2b449059978f9cdb5dfb5deaeb97524ea28d788a",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/introduction-flex-layout-0",
     "alias": "hikes/tour/introduction-flex-layout-0",
     "description": "Learn about Flex layout properties.",
@@ -20,6 +20,6 @@
     "kuid": "c53dccte-f9a7-41r2-82uf-37a98an2",
     "hikeVersion": "1.0",
     "weight": "2",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/4-develop-the-front-end/zips/introflexlayoutv9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/introflexlayoutv9.zip"
   }
 }

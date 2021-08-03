@@ -7,7 +7,7 @@
     "fileSize": "32.38 KB",
     "fileName": "userrepositoryauthenticationv9.zip",
     "fid": 17806,
-    "checksum": "4bce558d53337c4e08a32424d2e1d575e9360178f9cf313e453d002d38a60f9a",
+    "checksum": "f66cb85f3a7501c1ad1fcfec2e22396d2da84a22ceb5c1fb9731f1101c0b8fdd",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/add-authentication-source-0",
     "alias": "hikes/tour/add-authentication-source-0",
     "description": "Add Volt MX User Repository to your app to authorize users.",
@@ -20,6 +20,6 @@
     "kuid": "21ea72t7-d5a6-48ra-b0u2-ba8b54n3",
     "hikeVersion": "1.0",
     "weight": "3",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/5-manage-back-end-services/zips/userrepositoryauthenticationv9.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/5-manage-back-end-services/zips/userrepositoryauthenticationv9.zip"
   }
 }

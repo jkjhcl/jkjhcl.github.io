@@ -7,7 +7,7 @@
     "fileSize": "33.85 KB",
     "fileName": "internationalizationwithlayout92.zip",
     "fid": 17648,
-    "checksum": "af4e0bcf814f43084d36abbfc2efe8eb2f2d98e44a19ea779edf88b0dbdfd542",
+    "checksum": "febd238f529ae3e3a6e2db9ed0aaa616c0e4f1fa9266d5abb2ede6c59e948667",
     "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/internationalization-layout-1",
     "alias": "hikes/tour/internationalization-layout-1",
     "description": "Learn the basics of Internationalization(i18n) with layout configuration changes.",
@@ -20,6 +20,6 @@
     "kuid": "5ff7b4ta-15a6-4ar8-87ue-c2cdf7n8",
     "hikeVersion": "1.0",
     "weight": "12",
-    "download_url": "https://jkjhcl.github.io/volt-mx-tutorials/contents/4-develop-the-front-end/zips/internationalizationwithlayout92.zip"
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/internationalizationwithlayout92.zip"
   }
 }
